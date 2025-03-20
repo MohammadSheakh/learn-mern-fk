@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "alt": "nodemon sheakh/basic/8-function.js",
+    "alt": "nodemon sheakh/basic/10-array_nd_array_function.js",
     "all": "nodemon AllInOne/4-palindromes/prob1.js",
     "75": "nodemon LeetCode-75/15-M-Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length-1456.js",
     "30": "nodemon LeetCode-JS-30-Days/",
